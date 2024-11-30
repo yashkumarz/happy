@@ -14,4 +14,4 @@ println "${programmingPoints} minus 7 bonus points is ${subtract(programmingPoin
 println "${programmingPoints} plus 3 bonus points is ${sum(programmingPoints, 3)}"
 
 
-To main 1234
+1234
